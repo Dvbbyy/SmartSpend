@@ -47,7 +47,7 @@ The application is deployed as a live Streamlit app and functions as a working p
 
 ## Demo Video below
 Here is a short video which  demonstrates the app’s functionality and prescriptive logic.
-👉 https://(https://www.loom.com/share/70e7c046e4ed4bc489565e973671925c)
+👉 https://www.loom.com/share/e524ddaecbf14d7eb5521d25190696eb
 
 ---
 
