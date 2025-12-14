@@ -41,7 +41,7 @@ The application is deployed as a live Streamlit app and functions as a working p
 - The app dynamically generates insights and recommendations
 
 **Live App:**  
-👉 https://https://smartspend-financialtracker.streamlit.app/
+👉 [https://https://smartspend-financialtracker.streamlit.app/](https://smartspend-financialtracker.streamlit.app/)
 
 ---
 
